@@ -1,5 +1,7 @@
 # ESP32-Cam
 ESP32-CAM with OV2640
+![esp32 picture](/esp32_cam.png)
+
 
 ## Howto
 https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
